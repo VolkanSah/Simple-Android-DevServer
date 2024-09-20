@@ -27,3 +27,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 **Volkan Kücükbudak**
+
+### Other Stuff
+[Android DarkNet Server - Light Boilerplate](https://github.com/VolkanSah/Android-DarkNetServer)
